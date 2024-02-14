@@ -19,7 +19,8 @@ venv\Scripts\activate
 ```sh
 pip install -r requirements.txt
 ```
-5. Запускаете
+5. Запускаете в консоли
 ```sh
 py main.py
 ```
+или двойным кликом по `run.cmd` файлу
